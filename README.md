@@ -8,3 +8,5 @@ sudo docker build -t <<nome_imagem>> .
 
 sudo docker run -p 3000:3000 <<nome_imagem>>
 
+Acessar a url http://localhost:3000
+
